@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mehmet-kaya": {
+      "hosting": {
+        "angular-15-firebase-storage": [
+          "mehmet-kaya"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mehmet-kaya"
+  }
+}
